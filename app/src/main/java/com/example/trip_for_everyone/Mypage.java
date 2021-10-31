@@ -41,6 +41,5 @@ public class Mypage extends AppCompatActivity {
         bookmark_text = (TextView)findViewById(R.id.bookmark_text);
         course_img = (ImageView)findViewById(R.id.course_img);
         logout_button = (Button) findViewById(R.id.logout_button);
-
     }
 }
